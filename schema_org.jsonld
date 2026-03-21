@@ -1,0 +1,40 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "Longitudinal dataset (2000-2025) examining the relationship between economic stress indicators and mental health outcomes across 19 Latin American countries. Variables: GDP per capita, unemployment rate, inflation, Gini coefficient, poverty rate, eco",
+  "description": "Longitudinal dataset (2000-2025) examining the relationship between economic stress indicators and mental health outcomes across 19 Latin American countries. Variables: GDP per capita, unemployment rate, inflation, Gini coefficient, poverty rate, eco",
+  "url": "https://github.com/juanmoisesd/economic-stress-and-psychological-well-being-in-latin-america-2000-2025",
+  "sameAs": "https://juanmoisesd.github.io/economic-stress-and-psychological-well-being-in-latin-america-2000-2025/",
+  "identifier": "https://github.com/juanmoisesd/economic-stress-and-psychological-well-being-in-latin-america-2000-2025",
+  "author": {
+    "@type": "Person",
+    "name": "Juan Moisés de la Serna Tuya",
+    "@id": "https://orcid.org/0000-0002-8401-8018",
+    "affiliation": {
+      "@type": "Organization",
+      "name": "Universidad Internacional de La Rioja (UNIR)"
+    },
+    "email": "juanmoises.delaserna@unir.net"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Universidad Internacional de La Rioja (UNIR)",
+    "url": "https://www.unir.net"
+  },
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "datePublished": "2026-03-20",
+  "dateModified": "2026-03-20",
+  "keywords": "cc0, dataset, economic-stress, inequality, latin-america, longitudinal-dataset, mental-health, open-data, poverty, psychological-well-being, zenodo",
+  "inLanguage": [
+    "es",
+    "en"
+  ],
+  "isAccessibleForFree": true,
+  "distribution": [
+    {
+      "@type": "DataDownload",
+      "encodingFormat": "text/csv",
+      "contentUrl": "https://github.com/juanmoisesd/economic-stress-and-psychological-well-being-in-latin-america-2000-2025"
+    }
+  ]
+}
