@@ -1,5 +1,43 @@
-title: "Economic Stress and Psychological Well-being in Latin Americ"
-description: "Longitudinal dataset (2000-2025) examining the relationship between economic stress indicators and mental health outcomes across 19 Latin American cou"
-author: "Juan Moisés de la Serna Tuya"
+# Jekyll configuration for GitHub Pages
+title: "economic-stress-and-psychological-well-being-in-latin-america-2000-2025"
+description: "Longitudinal dataset (2000-2025) examining the relationship between economic stress indicators and mental health outcomes across 19 Latin American countries. Variables: GDP per capita, unemployment rate, inflation, Gini coefficient, poverty rate, eco"
 url: "https://juanmoisesd.github.io"
 baseurl: "/economic-stress-and-psychological-well-being-in-latin-america-2000-2025"
+
+author:
+  name: "Juan Moisés de la Serna Tuya"
+  orcid: "0000-0002-8401-8018"
+  linkedin: "https://www.linkedin.com/in/juanmoisesdelaserna/"
+  scopus: "26632846700"
+  institution: "Universidad Internacional de La Rioja (UNIR)"
+  email: "juanmoises.delaserna@unir.net"
+
+# SEO
+tagline: "Open Research Dataset"
+lang: "en"
+
+# Social
+twitter:
+  username: juanmoisesd
+  card: summary
+
+# Plugins
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+
+# Build
+theme: minima
+include:
+  - README.md
+  - GLOSSARY.md
+  - ABOUT_THE_AUTHOR.md
+  - CITATION_GUIDE.md
+
+# Exclude
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
