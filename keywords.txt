@@ -1,0 +1,11 @@
+cc0, dataset, economic-stress, inequality, latin-america, longitudinal-dataset, mental-health, open-data, poverty, psychological-well-being, zenodo
+open-data
+dataset
+research
+science
+FAIR
+reproducibility
+open-science
+academic
+citation
+DOI
