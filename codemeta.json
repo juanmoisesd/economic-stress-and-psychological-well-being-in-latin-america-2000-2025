@@ -1,50 +1,26 @@
 {
   "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
   "@type": "SoftwareSourceCode",
-  "name": "Longitudinal dataset (2000-2025) examining the relationship between economic stress indicators and mental health outcomes across 19 Latin American countries. Variables: GDP per capita, unemployment rate, inflation, Gini coefficient, poverty rate, eco",
-  "description": "Longitudinal dataset (2000-2025) examining the relationship between economic stress indicators and mental health outcomes across 19 Latin American countries. Variables: GDP per capita, unemployment rate, inflation, Gini coefficient, poverty rate, eco",
-  "url": "https://github.com/juanmoisesd/economic-stress-and-psychological-well-being-in-latin-america-2000-2025",
-  "codeRepository": "https://github.com/juanmoisesd/economic-stress-and-psychological-well-being-in-latin-america-2000-2025",
-  "dateCreated": "2026-03-20",
-  "dateModified": "2026-03-20",
-  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "name": "Longitudinal dataset (2000-2025) examining the relationship between economic stress indicators and m",
   "version": "1.0.0",
+  "identifier": "https://github.com/juanmoisesd/economic-stress-and-psychological-well-being-in-latin-america-2000-2025",
+  "datePublished": "2025",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "codeRepository": "https://github.com/juanmoisesd/economic-stress-and-psychological-well-being-in-latin-america-2000-2025",
   "author": [
     {
       "@type": "Person",
       "givenName": "Juan Moisés",
-      "familyName": "de la Serna Tuya",
-      "@id": "https://orcid.org/0000-0002-8401-8018",
+      "familyName": "de la Serna",
       "affiliation": {
         "@type": "Organization",
         "name": "Universidad Internacional de La Rioja (UNIR)"
-      },
-      "email": "juanmoises.delaserna@unir.net"
+      }
     }
   ],
-  "keywords": [
-    "cc0",
-    "dataset",
-    "economic-stress",
-    "inequality",
-    "latin-america",
-    "longitudinal-dataset",
-    "mental-health",
-    "open-data",
-    "poverty",
-    "psychological-well-being",
-    "zenodo"
+  "programmingLanguage": [
+    "Python",
+    "Jupyter Notebook"
   ],
-  "programmingLanguage": "HTML",
-  "maintainer": [
-    {
-      "@type": "Person",
-      "givenName": "Juan Moisés",
-      "familyName": "de la Serna Tuya"
-    }
-  ],
-  "funder": {
-    "@type": "Organization",
-    "name": "Universidad Internacional de La Rioja (UNIR)"
-  }
+  "keywords": "cc0, citation, clinical-psychology, dataset, economic-stress, fair-data, inequality, juan-moises-de-la-serna, latin-america, longitudinal-dataset, mental-health, open-data, open-science, orcid, poverty, psychological-well-being, psychology, research, wellbeing, zenodo"
 }
