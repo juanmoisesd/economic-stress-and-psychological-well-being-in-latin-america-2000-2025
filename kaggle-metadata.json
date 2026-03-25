@@ -1,0 +1,23 @@
+{
+  "title": "Longitudinal dataset (2000-2025) examining the relationship between economic str",
+  "id": "juanmoisesd/economic-stress-and-psychological-well-being-in-la",
+  "licenses": [
+    {
+      "name": "CC BY 4.0"
+    }
+  ],
+  "keywords": [
+    "cc0",
+    "citation",
+    "clinical-psychology",
+    "dataset",
+    "economic-stress",
+    "fair-data",
+    "inequality",
+    "juan-moises-de-la-serna",
+    "latin-america",
+    "longitudinal-dataset"
+  ],
+  "description": "Longitudinal dataset (2000-2025) examining the relationship between economic stress indicators and mental health outcomes across 19 Latin American countries. Variables: GDP per capita, unemployment rate, inflation, Gini coefficient, poverty rate, eco\n\nDOI: https://github.com/juanmoisesd/economic-stress-and-psychological-well-being-in-latin-america-2000-2025\nGitHub: https://github.com/juanmoisesd/economic-stress-and-psychological-well-being-in-latin-america-2000-2025\nAuthor: de la Serna, Juan Moisés",
+  "isPrivate": false
+}
